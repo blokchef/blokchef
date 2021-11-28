@@ -1,1 +1,6 @@
-{}
+{
+  "name": "blokchef stake pool",
+  "description": "My software development for the cardano ecosystem",
+  "ticker": "BCHEF",
+  "homepage": "https://www.blokchef.com"
+}
